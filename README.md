@@ -22,8 +22,10 @@ pip install -r requirements.txt
 ## 运行方式
 bash
 python notebook/news_anomaly_analysis.py
+
 输出结果保存至 `output/dashboard.png`。
 
 ## 数据来源
 Kaggle - Online News Popularity Dataset
+
 Source: Fernandes, Vinagre & Cortez (2015), A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News, EPIA 2015.
